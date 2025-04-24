@@ -1,0 +1,31 @@
+{"id": 1, "titulo": "Luz de Invierno", "rol": "director", "herramienta": "Final Cut Pro", "duracion_min": 15, "presupuesto_usd": 1200, "premio": "Mejor Cortometraje"}
+{"id": 2, "titulo": "Café y Sombras", "rol": "editor", "herramienta": "DaVinci Resolve", "duracion_min": 8, "presupuesto_usd": 500, "premio": null}
+{"id": 3, "titulo": "El Último Pixel", "rol": "colorista", "herramienta": "DaVinci Resolve", "duracion_min": 12, "presupuesto_usd": 800, "premio": null}
+{"id": 4, "titulo": "Sueños de Acero", "rol": "guionista", "herramienta": "Final Draft", "duracion_min": 20, "presupuesto_usd": 1500, "premio": "Guion Destacado"}
+{"id": 5, "titulo": "Ráfaga Nocturna", "rol": "director", "herramienta": "Final Cut Pro", "duracion_min": 10, "presupuesto_usd": 900, "premio": null}
+{"id": 6, "titulo": "Fragmentos", "rol": "editor", "herramienta": "Adobe Premiere", "duracion_min": 7, "presupuesto_usd": 400, "premio": null}
+{"id": 7, "titulo": "Vértigo Urbano", "rol": "director", "herramienta": "Final Cut Pro", "duracion_min": 18, "presupuesto_usd": 2000, "premio": "Selección Oficial"}
+{"id": 8, "titulo": "Códigos en la Niebla", "rol": "guionista", "herramienta": "Celtx", "duracion_min": 14, "presupuesto_usd": 600, "premio": null}
+{"id": 9, "titulo": "Latidos Digitales", "rol": "editor", "herramienta": "Final Cut Pro", "duracion_min": 9, "presupuesto_usd": 700, "premio": null}
+{"id": 10, "titulo": "Horizonte de Papel", "rol": "guionista", "herramienta": "Final Draft", "duracion_min": 16, "presupuesto_usd": 1100, "premio": null}
+{"id": 11, "titulo": "Caminos Cruzados", "rol": "director", "herramienta": "Final Cut Pro", "duracion_min": 22, "presupuesto_usd": 2500, "premio": "Premio del Público"}
+{"id": 12, "titulo": "Ecos del Silencio", "rol": "editor", "herramienta": "Adobe Premiere", "duracion_min": 11, "presupuesto_usd": 650, "premio": null}
+{"id": 13, "titulo": "Bitácora Lunar", "rol": "guionista", "herramienta": "Celtx", "duracion_min": 13, "presupuesto_usd": 900, "premio": null}
+{"id": 14, "titulo": "Sombras en Movimiento", "rol": "animador", "herramienta": "Motion 5", "duracion_min": 6, "presupuesto_usd": 300, "premio": null}
+{"id": 15, "titulo": "Ritmo y Luz", "rol": "director", "herramienta": "Final Cut Pro", "duracion_min": 19, "presupuesto_usd": 1800, "premio": "Mejor Edición"}
+{"id": 16, "titulo": "Círculo Abierto", "rol": "editor", "herramienta": "DaVinci Resolve", "duracion_min": 8, "presupuesto_usd": 550, "premio": null}
+{"id": 17, "titulo": "Voces del Asfalto", "rol": "guionista", "herramienta": "Final Draft", "duracion_min": 17, "presupuesto_usd": 1200, "premio": null}
+{"id": 18, "titulo": "Laberinto de Ideas", "rol": "director", "herramienta": "Final Cut Pro", "duracion_min": 21, "presupuesto_usd": 2100, "premio": null}
+{"id": 19, "titulo": "Pixel a Pixel", "rol": "animador", "herramienta": "Motion 5", "duracion_min": 5, "presupuesto_usd": 250, "premio": null}
+{"id": 20, "titulo": "Notas en el Aire", "rol": "editor", "herramienta": "Final Cut Pro", "duracion_min": 12, "presupuesto_usd": 800, "premio": null}
+{"id": 21, "titulo": "Caminos de Luz", "rol": "director", "herramienta": "Final Cut Pro", "duracion_min": 14, "presupuesto_usd": 1300, "premio": null}
+{"id": 22, "titulo": "Guion Invisible", "rol": "guionista", "herramienta": "Celtx", "duracion_min": 10, "presupuesto_usd": 500, "premio": null}
+{"id": 23, "titulo": "Croma y Realidad", "rol": "editor", "herramienta": "Adobe Premiere", "duracion_min": 9, "presupuesto_usd": 600, "premio": null}
+{"id": 24, "titulo": "Rostros del Tiempo", "rol": "director", "herramienta": "Final Cut Pro", "duracion_min": 20, "presupuesto_usd": 1700, "premio": "Premio Especial"}
+{"id": 25, "titulo": "Secuencia Alterna", "rol": "editor", "herramienta": "DaVinci Resolve", "duracion_min": 7, "presupuesto_usd": 450, "premio": null}
+{"id": 26, "titulo": "Guion de Medianoche", "rol": "guionista", "herramienta": "Final Draft", "duracion_min": 15, "presupuesto_usd": 1000, "premio": null}
+{"id": 27, "titulo": "Luces y Sombras", "rol": "director", "herramienta": "Final Cut Pro", "duracion_min": 18, "presupuesto_usd": 1600, "premio": null}
+{"id": 28, "titulo": "Animación Fugaz", "rol": "animador", "herramienta": "Motion 5", "duracion_min": 6, "presupuesto_usd": 350, "premio": null}
+{"id": 29, "titulo": "Corte Final", "rol": "editor", "herramienta": "Final Cut Pro", "duracion_min": 13, "presupuesto_usd": 900, "premio": null}
+{"id": 30, "titulo": "Guion de Esperanza", "rol": "guionista", "herramienta": "Celtx", "duracion_min": 11, "presupuesto_usd": 700, "premio": "Mención Honorífica"}
+
